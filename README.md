@@ -1,8 +1,12 @@
 # CODTECH_INTERNSHIP-TASK1
 Name : VIGNESH M
+
 Company : CODTECH IT SOLUTION 
+
 ID : CT6CSEH1330
+
 Duration : 6 Weeks
+
 Mentor Name : Muzammil Ahmed
 
 Name of the Project:
