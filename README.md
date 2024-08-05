@@ -1,15 +1,15 @@
 # CODTECH_INTERNSHIP-TASK1
+
 Name : VIGNESH M
 
 Company : CODTECH IT SOLUTION 
-
 ID : CT6CSEH1330
-
+Domain Name : CYBER SECURITY AND ETHICAL HACKING
 Duration : 6 Weeks
-
 Mentor Name : Muzammil Ahmed
 
 Name of the Project:
+
    BLOCKCHAIN SECURITY AUDIT
 
 Objective:
