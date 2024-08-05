@@ -30,6 +30,5 @@ Key Points for Conducting a Security Audit of a Blockchain Network:
 6. Review Wallets and Key Management
 
 
+![output](https://github.com/user-attachments/assets/52dc3c7c-8def-4796-8da8-b991917d9bba)
 
-2. Gather Information
-3. Analyze Smart Contracts
